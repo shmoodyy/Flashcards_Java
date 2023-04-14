@@ -1,0 +1,78 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Flashcards (Java)/*
+!/Flashcards (Java)/task/
+/Flashcards (Java)/task/*
+!/Flashcards (Java)/task/src
+!/Flashcards (Java)/task/srcbanana2.txt
+
+# Project exclude paths
+/Topics/ArrayList/Adding items/out/
+/Topics/ArrayList/Adding items/out/production/classes/
+/Topics/ArrayList/Output the list's elements/out/
+/Topics/ArrayList/Output the list's elements/out/production/classes/
+/Topics/ArrayList/Theory/out/
+/Topics/ArrayList/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Declaring generic classes/out/
+/Topics/Introduction to generic programming/Declaring generic classes/out/production/classes/
+/Topics/Introduction to generic programming/Generic parameter values/out/
+/Topics/Introduction to generic programming/Generic parameter values/out/production/classes/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/production/classes/
+/Topics/Introduction to generic programming/Theory/out/
+/Topics/Introduction to generic programming/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Type arguments/out/
+/Topics/Introduction to generic programming/Type arguments/out/production/classes/
+/Topics/The Collections Framework overview/Squaring numbers/out/
+/Topics/The Collections Framework overview/Squaring numbers/out/production/classes/
+/Topics/The Collections Framework overview/Supported collections/out/
+/Topics/The Collections Framework overview/Supported collections/out/production/classes/
+/Topics/The Collections Framework overview/Theory/out/
+/Topics/The Collections Framework overview/Theory/out/production/classes/
+/Topics/The List interface/Equal lists/out/
+/Topics/The List interface/Equal lists/out/production/classes/
+/Topics/The List interface/Mutable lists/out/
+/Topics/The List interface/Mutable lists/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
+/Topics/The List interface/Theory/out/
+/Topics/The List interface/Theory/out/production/classes/
+/Topics/The Map interface/Basics of Maps/out/
+/Topics/The Map interface/Basics of Maps/out/production/classes/
+/Topics/The Map interface/Counting words/out/
+/Topics/The Map interface/Counting words/out/production/classes/
+/Topics/The Map interface/Determine values of variables/out/
+/Topics/The Map interface/Determine values of variables/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Set interface/Creating a set/out/
+/Topics/The Set interface/Creating a set/out/production/classes/
+/Topics/The Set interface/Symmetric difference/out/
+/Topics/The Set interface/Symmetric difference/out/production/classes/
+/Topics/The Set interface/The size of a set/out/
+/Topics/The Set interface/The size of a set/out/production/classes/
+/Topics/The Set interface/Theory/out/
+/Topics/The Set interface/Theory/out/production/classes/
+/Topics/What are collections/Initialize a collection/out/
+/Topics/What are collections/Initialize a collection/out/production/classes/
+/Topics/What are collections/The relations between Java and CS/out/
+/Topics/What are collections/The relations between Java and CS/out/production/classes/
+/Topics/What are collections/Theory/out/
+/Topics/What are collections/Theory/out/production/classes/

@@ -1,0 +1,34 @@
+The card:
+
+> France
+
+The definition of the card:
+
+> Paris
+
+The pair ("France":"Paris") has been added. 
+
+The card:
+
+> China
+
+The definition of the card:
+
+> Beijing
+
+The pair ("China":"Beijing") has been added. 
+
+The card:
+
+> Somalia
+
+The definition of the card:
+
+> Mogadishu
+
+The pair ("Somalia":"Mogadishu") has been added. 
+
+File name:
+
+> logFile.txt
+

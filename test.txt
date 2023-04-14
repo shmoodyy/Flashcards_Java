@@ -1,0 +1,3 @@
+China => Beijing
+Somalia => Mogadishu
+France => Paris
